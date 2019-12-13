@@ -12,7 +12,7 @@ Giovanni2
 >>>>>>> 7bdd450 Commit 2
 
 
-prova branch2prova bran CONFLITTOOOOO
+prova branch2prova bran CONFLITTOOOOOTO DA SERVER-->333333333333333
 
 
 INSERITO DA SERVER-->
