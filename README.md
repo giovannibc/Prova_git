@@ -4,15 +4,11 @@ prova git
 
 Paolo
 
-<<<<<<< master
 Giovanni 3
-=======
-
 Giovanni2
->>>>>>> 7bdd450 Commit 2
 
 
-prova branch2prova bran CONFLITTOOOOOTO DA SERVER-->333333333333333
+prova branch2prova bran CONFLITTOOOOO INSERITO DA SERVER-->3333333333
 
 
 INSERITO DA SERVER-->
